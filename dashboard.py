@@ -706,7 +706,7 @@ app.layout = html.Div(
         html.Div(
             [
                 html.H5('Created by Shubham & Tanmay'),
-                html.A('GitHub', href='https://github.com/shubhamByte/B20AI039_B20AI047_DV_project')
+                html.A('GitHub', href='https://github.com/Hemangi-Chouhan/sucide_dashboard.git')
             ],
             style={
                 'background-color': '#E8E8E8',
