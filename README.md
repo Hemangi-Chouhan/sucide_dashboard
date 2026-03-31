@@ -49,9 +49,11 @@ Hemangi Chouhan
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/89643798/235620026-38a971f0-11c0-4bcf-b472-b36dd6a497bd.png)
+![image]"![Dashboard Screenshot](screenshots/Screenshot%20(175).png)"
 
+![image]"![Dashboard Screenshot](screenshots/Screenshot%20(174).png)"
 
-![image](https://user-images.githubusercontent.com/89643798/235620152-18dcff15-cb09-475d-a8f5-e8e2148f6750.png)
+![image]"![Dashboard Screenshot](screenshots/Screenshot%20(172).png)"
+
 
 
