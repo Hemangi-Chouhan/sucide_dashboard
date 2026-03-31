@@ -49,11 +49,11 @@ Hemangi Chouhan
 
 ## Screenshots
 
-![image]"![Dashboard Screenshot](screenshots/Screenshot%20(175).png)"
+"![Dashboard Screenshot](screenshots/Screenshot%20(175).png)"
 
-![image]"![Dashboard Screenshot](screenshots/Screenshot%20(174).png)"
+"![Dashboard Screenshot](screenshots/Screenshot%20(174).png)"
 
-![image]"![Dashboard Screenshot](screenshots/Screenshot%20(172).png)"
+"![Dashboard Screenshot](screenshots/Screenshot%20(172).png)"
 
 
 
