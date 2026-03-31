@@ -8,9 +8,9 @@ This is readme file for how to run the project on local computer.
 
 ## Installation
 
-1. Downlaod the zipped project file ("HEMANGI_B20AI039_DV_MINI_PROJECT") in the desired working directory.
-2. Unzip the project file "HEMANGI_B20AI039_DV_MINI_PROJECT".
-3. Navigate inside the "HEMANGI_B20AI039_DV_MINI_PROJECT" and open command prompt there by 'shift + right click'.
+1. Downlaod the zipped project file ("HEMANGI__DV_MINI_PROJECT") in the desired working directory.
+2. Unzip the project file "HEMANGI__DV_MINI_PROJECT".
+3. Navigate inside the "HEMANGI__DV_MINI_PROJECT" and open command prompt there by 'shift + right click'.
 4. (OPTIONAL) Create virtual environment (python) using below command:
 ```bash
     virtualenv virtualdv
@@ -42,10 +42,10 @@ The dashboard is deployed at following link.
 ```
 
 
-## Group Members
+## Created By
 
-- Tanmay (HEMANGI)
-- Shubham Kumar (B20AI039)
+Hemangi Chouhan
+
 
 ## Screenshots
 

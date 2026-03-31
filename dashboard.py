@@ -705,7 +705,7 @@ app.layout = html.Div(
         [
         html.Div(
             [
-                html.H5('Created by Shubham & Tanmay'),
+                html.H5('Hemangi Chouhan'),
                 html.A('GitHub', href='https://github.com/Hemangi-Chouhan/sucide_dashboard.git')
             ],
             style={
